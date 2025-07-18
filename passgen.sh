@@ -1,5 +1,9 @@
 #!/bin/bash
 
+
+# Author: Farzan Afringan
+# License: MIT
+
 # Simple password generator
 LENGTH=16
 
