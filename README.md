@@ -46,6 +46,10 @@ Supports custom length, multiple password generation, and simple mode.
 ./passgen-v2.sh --help
 ```
 
+➡️ [👉 Click here to download the latest release (v1.1.0)](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.1.0)
+
+
+
 📄 License
 
 This project is licensed under the MIT License.
