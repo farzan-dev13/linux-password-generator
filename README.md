@@ -48,7 +48,6 @@ Supports custom length, multiple password generation, and simple mode.
 ---
 ➡️ [👉 Click here to download the latest release (v1.1.0)](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.1.0)
 ---
-///
 
 
 📄 License
