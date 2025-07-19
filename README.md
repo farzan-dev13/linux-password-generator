@@ -46,7 +46,29 @@ Supports custom length, multiple password generation, and simple mode.
 ./passgen-v2.sh --help
 ```
 ---
-➡️ [👉 Click here to download the latest release (v1.1.0)](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.1.0)
+---
+
+### 🔸 Version 1.2.0
+
+> File: `versions/passgen-v3.sh`
+
+Adds support for saving passwords to a file using `--output` option.
+
+#### 📌 Usage:
+```bash
+./passgen-v3.sh --length 16 --number 3 --output saved_passwords.txt
+```
+
+This will generate 3 passwords of length 16 and save them to the file saved_passwords.txt.
+
+ℹ️ Help:
+```
+./passgen-v3.sh --help
+```
+
+
+---
+➡️ [👉 Click here to download the latest release (v1.2.0)](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.2.0)
 ---
 
 
