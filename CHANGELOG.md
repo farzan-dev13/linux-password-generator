@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.2.0] - 2025-07-19
+### Added
+- New option `--output FILE` to save generated passwords to a file
+- All previous CLI options from version 1.1.0 retained
+
+---
+
 ## [1.1.0] - 2025-07-18
 ### Added
 - CLI option for password length (`--length`)
