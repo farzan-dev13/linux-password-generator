@@ -33,7 +33,7 @@ A simple and extendable password generator written in Bash for Linux.
 ---
 📚 Other Versions
 
-🔗 [👉 Download Release v1.2.0](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.2.0)
+🔗 [👉 Download Release v1.1.0](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.1.0)
 
 🔗 [👉 Download Release v1.0.0](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.0.0)
 
