@@ -1,5 +1,12 @@
 # 🔐 linux-password-generator
 
+
+<p align="center">
+  <img src="images/bannerpp.png" alt="Banner" width="100%" style="max-width: 800px; border-radius: 12px;" />
+</p>
+
+
+
 A simple and extendable password generator written in Bash for Linux.
 
 ## 🚀 Features
