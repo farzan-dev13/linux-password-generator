@@ -44,7 +44,7 @@ This will generate 3 passwords, save them, and display a strength score (e.g. "S
 ---
 
 ```md
----
+
 📚 Other Versions
 
 🔗 [👉 Download Release v1.2.0](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.2.0)
