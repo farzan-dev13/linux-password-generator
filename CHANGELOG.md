@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 ## [v1.3.0] - 2025-07-21
-### Added
+### 🟧 Added
 -Password strength scoring: classify generated passwords from **Very Weak** to **Very Strong**
 
 ### Changed
@@ -17,14 +17,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 
 ## [1.2.0] - 2025-07-19
-### Added
+### 🟧 Added
 - New option `--output FILE` to save generated passwords to a file
 - All previous CLI options from version 1.1.0 retained
 
 ---
 
 ## [1.1.0] - 2025-07-18
-### Added
+### 🟧 Added
 - CLI option for password length (`--length`)
 - Option to generate multiple passwords (`--number`)
 - Simple mode without symbols (`--simple`)
@@ -32,5 +32,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 
 ## [1.0.0] - 2025-07-18
-### Added
+### 🟧 Added
 - Basic password generator using /dev/urandom
