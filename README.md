@@ -16,18 +16,22 @@ A simple and extendable password generator written in Bash for Linux.
 - Generate multiple passwords at once
 - Option to disable symbols (simple mode)
 - Save generated passwords to a file
+- ✅ **Check password strength (Very Weak to Very Strong)**  ← (NEW)
+
 
 ---
 
-## 📌 Latest Version: `v1.2.0`
+## 📌 Latest Version: `v1.3.0`
 
 > File: `passgen.sh`
 
 ```bash
 ./passgen.sh --length 16 --number 3 --output saved_passwords.txt
 ```
+This will generate 3 passwords, save them, and display a strength score (e.g. "Strong", "Very Weak").
 
-🔗 [👉 Download Release v1.2.0](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.2.0)
+
+🔗 [👉 Download Release v1.3.0](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.3.0)
 
 ℹ️ Help:
 
@@ -38,12 +42,17 @@ A simple and extendable password generator written in Bash for Linux.
 
 
 ---
+
+```md
+---
 📚 Other Versions
+
+🔗 [👉 Download Release v1.2.0](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.2.0)
 
 🔗 [👉 Download Release v1.1.0](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.1.0)
 
 🔗 [👉 Download Release v1.0.0](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.0.0)
-
+```
 ---
 
 📄 License
