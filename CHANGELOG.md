@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
+## [v1.3.0] - 2025-07-21
+### Added
+-Password strength scoring: classify generated passwords from *Very Weak* to *Very Strong*
+
+### Changed
+-Code cleanup and comment improvements
+-Minor edge case fixes
+
+---
 
 ## [1.2.0] - 2025-07-19
 ### Added
