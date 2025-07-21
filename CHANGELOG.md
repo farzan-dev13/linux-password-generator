@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 ## [v1.3.0] - 2025-07-21
 ### Added
--Password strength scoring: classify generated passwords from *Very Weak* to *Very Strong*
+-Password strength scoring: classify generated passwords from **Very Weak** to **Very Strong**
 
 ### Changed
 -Code cleanup and comment improvements
