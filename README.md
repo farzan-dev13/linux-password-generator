@@ -43,7 +43,6 @@ This will generate 3 passwords, save them, and display a strength score (e.g. "S
 
 ---
 
-```md
 
 📚 Other Versions
 
@@ -52,7 +51,7 @@ This will generate 3 passwords, save them, and display a strength score (e.g. "S
 🔗 [👉 Download Release v1.1.0](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.1.0)
 
 🔗 [👉 Download Release v1.0.0](https://github.com/farzan-dev13/linux-password-generator/releases/tag/v1.0.0)
-```
+
 ---
 
 📄 License
