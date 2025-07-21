@@ -23,11 +23,19 @@ A simple and extendable password generator written in Bash for Linux.
 
 ## 📌 Latest Version: `v1.3.0`
 
+
+## ⚙️ How to Use
+
+Clone the repository, give the script execution permission, and run it:
 ```
 git clone https://github.com/farzan-dev13/linux-password-generator.git
 ```
 
 > File: `passgen.sh`
+
+```
+chmod +x passgen.sh
+```
 
 ```bash
 ./passgen.sh --length 16 --number 3 --output saved_passwords.txt
